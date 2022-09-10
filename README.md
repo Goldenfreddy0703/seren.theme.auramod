@@ -15,7 +15,7 @@
 * Seren - 2.x or greater
 * AuraMod - Latest Repo version or higher 
 
-**This theme is a modified version of SerenTheme-SerenMod-Full, use at your on risk with other skins.**
+**This theme is a modified version of SerenTheme-SerenMod-Full, use at your own risk with other skins.**
 
 *The text color for this theme is controlled by Serens  Settings called "Select Text Highlight Color..." Found in Seren Settings > Interface*
 
