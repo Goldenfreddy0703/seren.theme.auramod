@@ -158,8 +158,8 @@
         <!-- Seren Ico -->
         <control type="image" id="1001">
             <top>-250</top>
-            <left>700</left>
-            <width>100</width>
+            <left>550</left>
+            <width>400</width>
             <aspectratio>keep</aspectratio>
             <texture>$INFO[Window().Property(seren.logo)]</texture>
         </control>
